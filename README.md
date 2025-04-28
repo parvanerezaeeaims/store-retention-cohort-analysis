@@ -12,15 +12,11 @@ A heatmap is used to visualize the retention rates:
 - **X-axis**: Number of months since the first purchase
 - **Values**: Percentage of customers retained
 
-## Visualization Details
+## Visualization 
 
-| Feature | Value |
-| :---: | :---: |
-| **Figure size** | 15 × 8 inches |
-| **Color map (`cmap`)** | `BuGn` |
-| **Value range (`vmin`, `vmax`)** | 0 to 50 |
-| **Annotation format (`fmt`)** | `.0f` (integer format without decimals) |
+
 ![./images/RFM.png](https://github.com/parvanerezaeeaims/store-retention-cohort-analysis/blob/main/pic.png)
+
 
 ## Technologies Used
 
